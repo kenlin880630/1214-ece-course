@@ -9,12 +9,12 @@
 
 今天教的內容有下面四個
 
-終端機
+# 終端機
 
-常用的終端機指令
+## 常用的終端機指令
 
-Windows MacOS/Linux 說明
-
+Windows | MacOS/Linux | 說明
+*-*|*-*|*-*|
 cd cd 切換目錄
 cd pwd 取得目前所在的位置
 dir ls 列出目前的檔案列表
